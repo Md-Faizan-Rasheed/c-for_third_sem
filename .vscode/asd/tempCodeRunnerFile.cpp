@@ -1,0 +1,1 @@
+memcpy(arr1,arr2,2*sizeof(int));
